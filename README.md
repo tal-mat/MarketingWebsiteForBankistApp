@@ -1,0 +1,5 @@
+# Marketing Website for the Bankist App
+
+This App is a kind of marketing website for the Bankist App (a fictional bank). It includes the following features: a modal window for displaying additional information, smooth scrolling navigation to different sections of the page, tabbed content sections for organizing information, and a menu with a fade animation effect. It also features a sticky navigation bar that remains at the top when scrolling past the header, sections that reveal themselves as they come into view, and lazy-loaded images for improved performance. Additionally, it has a slider component for showcasing various slides.
+
+Key JavaScript topics covered in this app include working with the DOM, event handling, smooth scrolling, animations, Intersection Observer API for lazy loading and sticky navigation, and creating interactive components like tabs and sliders. The app was developed as part of the JavaScript course by Jonas Schmedtmann. 
